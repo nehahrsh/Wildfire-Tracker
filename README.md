@@ -5,6 +5,7 @@
 ## Built With
 #### React (https://react.dev)
 #### NASA EONET API (https://eonet.gsfc.nasa.gov/docs/v2.1)
+#### Google Cloud Platform
 
 ## Overview
 #### Users can view the complete map as soon as they access the web app, which displays plotted wildfires across the region in frame. To learn more about each event, users can click on the fire icon to view a pop up on the top right of the screen that displays the event location and ID from the NASA database.
