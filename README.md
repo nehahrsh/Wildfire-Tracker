@@ -8,7 +8,7 @@
 #### Google Cloud Platform
 
 ## Overview
-#### Users can view the complete map as soon as they access the web app, which displays plotted wildfires across the region in frame. To learn more about each event, users can click on the fire icon to view a pop up on the top right of the screen that displays the event location and ID from the NASA database.
+#### Users can view the complete map as soon as they access the web app, which displays plotted wildfires across the region in frame. Hosts full functionality to hover across the map and discover wildfire events in region of choice, but default location upon webpage access is set to California. To learn more about each event, users can click on the fire icon to view a pop up on the top right of the screen that displays the event location and ID from the NASA database.
 
 <img width="1438" alt="Screenshot 2024-07-17 at 9 51 19 PM" src="https://github.com/user-attachments/assets/4cdde2f3-f09b-49d4-8129-7615f996a81b">
 
