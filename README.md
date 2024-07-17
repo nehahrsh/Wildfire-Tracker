@@ -3,9 +3,9 @@
 #### This project is loosely inspired by the [rainfall map](https://code.earthengine.google.com/c71a1dd44f9b0532bacf43ac379ab33d) I built on Google Earth Engine for the disastrous floods in Pakistan in 2022 brought on by climate change. This Wildfire Tracker visualizes wildfires across California by tracking them through a NASA API and plotting them on a Google map, while providing specific locations and event IDs.
 
 ## Built With
-#### React 
-#### NASA EONET API
-#### Google Cloud Platform 
+#### React (https://react.dev)
+#### NASA EONET API (https://eonet.gsfc.nasa.gov/docs/v2.1)
+#### Google Cloud Platform
 
 ## Overview 
 
